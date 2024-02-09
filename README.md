@@ -1,5 +1,6 @@
 # Bharat-Intern
 internship program 2024
+
 Introduction:
 The objective of this project is to develop a text classification model to distinguish between spam and non-spam (ham) SMS messages. We explored two Naive Bayes models for this task: Gaussian Naive Bayes and Multinomial Naive Bayes.
 
